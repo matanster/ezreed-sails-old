@@ -1,0 +1,2 @@
+# ezreed
+### a Sails application
